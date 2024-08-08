@@ -5,6 +5,7 @@ on:
       - "front-end/**"
       - ".github/workflows/**"
     branches:
+      - main
       - staging
 
   pull_request:
